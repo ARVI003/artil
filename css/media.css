@@ -1,0 +1,377 @@
+@media (max-width: 1440px){
+    .container{
+        width: 90%;
+    }
+
+}
+@media (max-width: 1200px){
+    .container{
+        width: 90%;
+    }
+
+    .hero-block img{
+        width: 90%;
+    }
+
+    .begin {
+         padding: 0 34px;
+    }
+
+    .work {
+        flex-direction: column;
+    }
+
+    .work-block h1 {
+        text-align: center;
+    }
+
+    .work-block p {
+        text-align: center;
+    }
+
+    .faster {
+        width: 90%;
+        margin: 73px 0 0 20px;
+    }
+
+
+
+
+
+}
+@media (max-width: 1024px){
+    .container{
+        width: 90%;
+    }
+
+    .header-nav{
+        display: none;
+    }
+
+    .hero {
+        flex-direction: column;
+    }
+
+    .hero-block h1 {
+        margin-left: 277px;
+    }
+
+    .hero-block h2 {
+        text-align: center;
+    }
+
+    .hero-block p {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .biro {
+        margin-left: 243px;
+    }
+
+    .zero{
+        width: 90%;
+    }
+
+    .begin {
+        margin-left: -21px;
+    }
+
+    .see-block {
+        flex-direction: column-reverse;
+    }
+
+    .see-rec {
+        margin-top: 113px;
+    }
+
+    .see-rec p {
+        text-align: center;
+    }
+
+    .see-rec button {
+        margin-left: 147px;
+    }
+
+    .need {
+        width: 90%;
+        margin: 62px 0 0 36px;
+    }
+
+    .soup{
+        padding: 0 20px;
+    }
+
+}
+@media (max-width: 992px){
+    .container{
+        width: 90%;
+    }
+
+    .begin {
+        margin-left: -48px;
+    }
+
+    .love{
+        margin-left: 0;
+    }
+
+
+
+
+}
+@media (max-width: 768px){
+    .container{
+        width: 90%;
+    }
+
+    .hero-block h1 {
+        margin-left: 173px;
+    }
+
+    .biro {
+        margin-left: 138px;
+    }
+
+    .loco{
+        width: 90%;
+    }
+
+    .begin {
+        flex-direction: column;
+    }
+
+    .begin {
+        width: 90%;
+    }
+
+    .zero {
+        margin: 38px 0 0 116px;
+    }
+
+    .see-rec h1 {
+        text-align: center;
+        margin-left: 6px;
+    }
+
+    .see-rec p {
+        margin-left: 14px;
+    }
+
+    .see-rec button {
+        margin-left: 170px;
+    }
+
+    .arvi-block {
+        flex-wrap: wrap;
+        margin-left: 90px;
+    }
+
+    .stove {
+        flex-direction: column;
+    }
+
+    .love {
+        margin-left: 104px;
+    }
+
+    .stove-block h1 {
+        margin-left: 46px;
+    }
+
+    .stove-block p {
+        text-align: center;
+    }
+
+    .left {
+        text-align: center;
+    }
+
+    .soup {
+        text-align: center;
+        margin-left: -5px;
+    }
+
+    .prey {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .bico a {
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 18px;
+    }
+
+}
+@media (max-width: 576px){
+    .container{
+        width: 90%;
+    }
+
+    .hero-block h1 {
+        margin-left: 89px;
+    }
+
+    .see-rec h1 {
+        font-size: 39px;
+    }
+
+    .see-rec p {
+        font-size: 22px;
+    }
+
+    .see-rec button {
+        width: 162px;
+        height: 53px;
+        margin-left: 153px;
+    }
+
+    .arvi-block {
+        margin-left:0;
+    }
+
+    .work-block h1 {
+        font-size: 32px;
+    }
+
+    .work-block p {
+        font-size: 15px;
+    }
+
+
+
+}
+@media (max-width: 450px){
+    .container{
+        width: 90%;
+    }
+
+    .header {
+        flex-direction: column;
+    }
+
+    .hero-block h1 {
+        font-size: 17px;
+        margin-left: 47px;
+    }
+
+    .biro {
+        margin-left: 91px;
+    }
+
+    .zero {
+        margin: 38px 0 0 80px;
+    }
+
+    .see-rec h1 {
+        font-size: 38px;
+    }
+
+    .see-rec p {
+        margin-left: -4px;
+    }
+
+    .see-rec button {
+        margin-left: 91px;
+    }
+
+    .need {
+        margin: 62px 0 0 21px;
+    }
+
+    .work-block h1 {
+        font-size: 38px;
+    }
+
+
+
+
+}
+@media (max-width: 425px){
+    .container{
+        width: 90%;
+    }
+
+
+
+
+}
+@media (max-width: 380px){
+    .container{
+        width: 90%;
+    }
+
+    .hero-block h2 {
+        font-weight: 700;
+    }
+
+    .hero-block h1 {
+        margin-left: 24px;
+    }
+
+    .biro {
+        margin-left: 65px;
+    }
+
+    .see-rec button {
+        margin-left: 59px;
+    }
+
+
+
+}
+@media (max-width: 370px){
+    .container{
+        width: 90%;
+    }
+
+
+}
+@media (max-width: 320px){
+    .container{
+        width: 90%;
+    }
+
+    .hero-block h1 {
+        margin-left: 8px;
+    }
+
+    .hero-block h2 {
+        font-weight: 500;
+    }
+
+    .biro {
+        margin-left: 50px;
+    }
+
+    .zero {
+        margin: 38px 0 0 59px;
+    }
+
+    .see-rec h1 {
+        font-size: 44px;
+        margin-left: 1px;
+    }
+
+    .see-rec button {
+        margin-left: 32px;
+    }
+
+    .still p {
+        font-size: 11px;
+        margin: 38px 0 0 0;
+    }
+
+    .stove-block h1 {
+        margin-left: 19px;
+    }
+
+    .love {
+        margin-left: 76px;
+    }
+
+    
+
+
+}
